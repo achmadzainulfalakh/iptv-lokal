@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:1, TV One - TV One Indonesia
+rtsp://10.10.10.35:5000/screen
